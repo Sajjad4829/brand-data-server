@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "walton",
+    "image": "https://i.ibb.co/XkVQNKj/brand3.jpg",
+    "slider_image1":"https://i.ibb.co/Jj2c0D6/img1.jpg",
+     "slider_image2":"https://i.ibb.co/WD47Qgf/img2.jpg",
+     "slider_image3":"https://i.ibb.co/0MS1hPB/img3.jpg"
+    
+  },
+  {
+    "id": 2,
+    "name": "lg",
+    "image": "https://i.ibb.co/L6tk8vY/lg-logo-PNG5.png",
+    "slider_image1":"https://i.ibb.co/7vr9Jc8/lg-slider3.jpg",
+     "slider_image2":"https://i.ibb.co/BGdnNvM/lg-slider-2.webp",
+     "slider_image3":"https://i.ibb.co/Fhs2X5B/lg-slider1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "intel",
+    "image": "https://i.ibb.co/Tg84M1z/barnd1.png",
+    "slider_image1":"https://i.ibb.co/Fmym81s/intel-slider1.jpg",
+     "slider_image2":"https://i.ibb.co/0XRmZBT/intel-slider-3.jpg",
+     "slider_image3":"https://i.ibb.co/Y7NRctv/intel3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "samsung",
+    "image": "https://i.ibb.co/hgmqskS/samsung.jpg",
+    "slider_image1":"https://i.ibb.co/df7CdhL/samsung-1.jpg",
+     "slider_image2":"https://i.ibb.co/Pw2Spzx/samsung-slider2.jpg",
+     "slider_image3":"https://i.ibb.co/nBSCJMd/samsung-3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "vision",
+    "image": "https://i.ibb.co/Mpj7JKg/brand2.jpg",
+    "slider_image1":"https://i.ibb.co/Jj2c0D6/img1.jpg",
+     "slider_image2":"https://i.ibb.co/WD47Qgf/img2.jpg",
+     "slider_image3":"https://i.ibb.co/0MS1hPB/img3.jpg"
+  },
+  {
+    "id": 6,
+    "name": "apple",
+    "image": "https://i.ibb.co/6FBCF19/Apple-logo-PNG4.png",
+    "slider_image1":"https://i.ibb.co/Jj2c0D6/img1.jpg",
+     "slider_image2":"https://i.ibb.co/WD47Qgf/img2.jpg",
+     "slider_image3":"https://i.ibb.co/0MS1hPB/img3.jpg"
+  }
+]
